@@ -2,7 +2,7 @@
 
 ### How to use
 
-* Run the following command in terminal
+* Run the following commands in terminal.
 ```
 git clone https://github.com/bear3z/MakeKexts
 sh MakeKexts.sh
